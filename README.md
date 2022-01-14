@@ -1,7 +1,1 @@
-# Application api Express.js for React.js blog
-
-## Description project
-
-### Stack
-- Node.js
-- Express
+# Completion of authorization in the training application
